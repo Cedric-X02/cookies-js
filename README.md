@@ -40,6 +40,6 @@ Pour installer cookie-js, voud devrez insérer le bout de code ci dessous dans v
 </html>
 ```
 ## 1.4.1) Image d'exemple d'utilisation
-![Image d'exemple d'utilisation](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg)
+![Image d'exemple d'utilisation](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg "Image d'exemple d'utilisation")
 
 [1]: https://www.javascript.com/
