@@ -29,7 +29,7 @@ Pour installer cookie-js, voud devrez insérer le bout de code ci dessous dans v
 <body>
     <p id="cook"></p>
     
-    <script src="./script.js](https://tutos-js.tk/codes/cookie.js)"></script>
+    <script src="https://tutos-js.tk/codes/cookie.js"></script>
     <script>
         createCookie('Cookie','Un cookie tout à fait normal',7)
         
