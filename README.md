@@ -44,4 +44,4 @@ Voici une image qui montre ce que vous verrez si vous mettez le code [ci-dessus]
 ![Image d'exemple d'utilisation](https://i.imgur.com/ZqKuDAS.png "Image d'exemple d'utilisation")
 
 [1]: https://www.javascript.com/
-[2]: ntm
+[2]: https://github.com/Cedric-X02/js-tutos/blob/main/README.md#14-exemple-dutilisation
