@@ -3,7 +3,7 @@
 # 1.1) À propos
 cookie-js est un bout de code pour vous aider à créer votre propre cookie en [JavaScript][1].
 
-## 1.2) Tableau des matières
+## 1.2) Tableau d'explication
 | Fonction | Description | Utilisation | Exemple |
 | :--------------- | :--------------------: | :---------------------------: | ------------------------: |
 | createCookie     |  Créer un cookie       | createCookie(nom,valeur,jour) | createCookie('Cookie','Un bon gros cookie',7) |
@@ -16,5 +16,26 @@ Pour installer cookie-js, voud devrez insérer le bout de code ci dessous dans v
 <script src="https://tutos-js.tk/codes/cookie.js"></script>
 ```
 
+## 1.4) Exemple d'utilisation
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="cook"></p>
+    
+    <script src="./script.js](https://tutos-js.tk/codes/cookie.js)"></script>
+    <script>
+        var affiche = document.getElementById('cook');
+        affiche.innerHTML = 'Valeur : ' + readCookie('Cookie')
+    </script>
+</body>
+</html>
+```
 
 [1]: https://www.javascript.com/
