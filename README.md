@@ -1,4 +1,4 @@
-# 1.0) Créer son premier cookie en javascript
+# 1.0) Créer son premier cookie en [JavaScript][1]
 
 # 1.1) À propos
 cookie-js est un bout de code pour vous aider à créer votre propre cookie en [JavaScript][1].
@@ -10,6 +10,11 @@ cookie-js est un bout de code pour vous aider à créer votre propre cookie en [
 | readCookie       |  Lire un cookie        | readCookie(nom)               |                          readCookie('Cookie') |
 | Bananes          |  Supprimer un cookie   | deleteCookie(nom)             |                        deleteCookie('Cookie') |
 
-## 1.2) Les Explications
+## 1.3) Installation
+Pour installer cookie-js, voud devrez insérer le bout de code ci dessous dans votre fichier html ou php.
+```html
+<script src="https://tutos-js.tk/codes/cookie.js"></script>
+```
+
 
 [1]: https://www.javascript.com/
