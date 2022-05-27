@@ -40,7 +40,8 @@ Pour installer cookie-js, voud devrez insérer le bout de code ci dessous dans v
 </html>
 ```
 ## 1.4.1) Image d'exemple d'utilisation
-Voici une image qui montre ce que vous verrez si vous mettez le code
+Voici une image qui montre ce que vous verrez si vous mettez le code [ci-dessus][2]
 ![Image d'exemple d'utilisation](https://i.imgur.com/ZqKuDAS.png "Image d'exemple d'utilisation")
 
 [1]: https://www.javascript.com/
+[2]: ntm
