@@ -31,11 +31,15 @@ Pour installer cookie-js, voud devrez insérer le bout de code ci dessous dans v
     
     <script src="./script.js](https://tutos-js.tk/codes/cookie.js)"></script>
     <script>
+        createCookie('Cookie','Un cookie tout à fait normal',7)
+        
         var affiche = document.getElementById('cook');
         affiche.innerHTML = 'Valeur : ' + readCookie('Cookie')
     </script>
 </body>
 </html>
 ```
+## 1.4.1) Image d'exemple d'utilisation
+![Image d'exemple d'utilisation](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg )
 
 [1]: https://www.javascript.com/
