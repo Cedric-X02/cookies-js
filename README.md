@@ -43,6 +43,8 @@ Pour installer cookie-js, voud devrez insérer le bout de code ci dessous dans v
 Voici une image qui montre ce que vous verrez si vous mettez le code [ci-dessus][2]
 ![Image d'exemple d'utilisation](https://i.imgur.com/ZqKuDAS.png "Image d'exemple d'utilisation")
 
+---
+
 ## 2.0) Faire son premier cercle en [JavaScript][1]
 
 ## 2.1) À propos
