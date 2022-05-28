@@ -75,7 +75,18 @@ circle-js est un bout de code pour vous aider à créer votre premier cercle en 
 ## 2.3) Installation
 Pour installer circle-js, vous devrez insérer le bout de code ci dessous dans votre fichier html ou php.
 ```html
-<script src="https://tutos-js.tk/codes/circle-js.js"></script>
+<script type="module" src="https://tutos-js.tk/codes/scripts.js"></script>
+```
+puis importer les fonctions que vous voulez utiliser
+
+createCircle: 
+```js
+import {createCircle} from 'https://tutos-js.tk/codes/scripts.js';
+```
+
+createFullCircle: 
+```js
+import {createFullCircle} from 'https://tutos-js.tk/codes/scripts.js';
 ```
 
 ## 2.4) Exemple d'utilisation
