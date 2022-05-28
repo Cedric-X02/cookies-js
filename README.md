@@ -40,7 +40,7 @@ Pour installer cookie-js, vous devrez insérer le bout de code ci dessous dans v
 </html>
 ```
 ## 1.4.1) Image d'exemple d'utilisation
-Voici une image qui montre ce que vous verrez si vous mettez le code [ci-dessus][2]
+Voici une image qui montre ce que vous verrez si vous mettez le code ci-dessus
 ![Image d'exemple d'utilisation](https://i.imgur.com/ZqKuDAS.png "Image d'exemple d'utilisation")
 
 ---
@@ -62,8 +62,29 @@ Pour installer circle-js, vous devrez insérer le bout de code ci dessous dans v
 <script src="https://tutos-js.tk/codes/circle-js.js"></script>
 ```
 
-## 2.3) Exemple d'utilisation
+## 2.4) Exemple d'utilisation
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <canvas id="canvas" width="400" height="200"></canvas>
+    <script src="https://tutos-js.tk/codes/circle-js.js">
+    </script>
+    <script>
+        createFullCircle('canvas','#A4A')
+    </script>
+</body>
+</html>
+```
 
+## 2.4.1) Image d'exemple d'utilisation
+Voici une image qui montre ce que vous verrez si vous mettez le code ci-dessus
+![Image d'exemple d'utilisation]([https://i.imgur.com/ZqKuDAS.png](https://i.imgur.com/18KIU2N.png) "Image d'exemple d'utilisation")
 
 [1]: https://www.javascript.com/
-[2]: https://github.com/Cedric-X02/js-tutos/blob/main/README.md#14-exemple-dutilisation
