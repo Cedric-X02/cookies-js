@@ -11,9 +11,9 @@ cookie-js est un bout de code pour vous aider à créer votre premier cookie en 
 | Bananes          |  Supprimer un cookie   | deleteCookie(nom)             |                        deleteCookie('Cookie') |
 
 ## 1.3) Installation
-Pour installer cookie-js, voud devrez insérer le bout de code ci dessous dans votre fichier html ou php.
+Pour installer cookie-js, vous devrez insérer le bout de code ci dessous dans votre fichier html ou php.
 ```html
-<script src="https://tutos-js.tk/codes/cookie.js"></script>
+<script src="https://tutos-js.tk/codes/cookie-js.js"></script>
 ```
 
 ## 1.4) Exemple d'utilisation
@@ -55,6 +55,15 @@ circle-js est un bout de code pour vous aider à créer votre premier cercle en 
 | :--------------- | :--------------------: | :----------------------------------: | --------------------------------------------: |
 | createCircle     |  Créer un cercle       | createCircle(id,epaisseur,couleur)   |          createCircle('canvas','5','#ff2d00') |
 | createFullCircle |  Créer un cercle plein | createFullCircle(id,couleur)         |          createFullCircle('canvas','#ff2d00') |
+
+## 2.3) Installation
+Pour installer circle-js, vous devrez insérer le bout de code ci dessous dans votre fichier html ou php.
+```html
+<script src="https://tutos-js.tk/codes/circle-js.js"></script>
+```
+
+## 2.3) Exemple d'utilisation
+
 
 [1]: https://www.javascript.com/
 [2]: https://github.com/Cedric-X02/js-tutos/blob/main/README.md#14-exemple-dutilisation
