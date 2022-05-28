@@ -13,7 +13,20 @@ cookie-js est un bout de code pour vous aider à créer votre premier cookie en 
 ## 1.3) Installation
 Pour installer cookie-js, vous devrez insérer le bout de code ci dessous dans votre fichier html ou php.
 ```html
-<script src="https://tutos-js.tk/codes/cookie-js.js"></script>
+<script type="module" src="https://tutos-js.tk/codes/scripts.js"></script>
+```
+puis importer les fonctions que vous voulez utiliser
+
+createCookie: ```javascript
+import {createCookie} from 'https://tutos-js.tk/codes/scripts.js';
+```
+
+readCookie: ```javascript
+import {readCookie} from 'https://tutos-js.tk/codes/scripts.js';
+```
+
+deleteCookie: ```javascript
+import {deleteCookie} from 'https://tutos-js.tk/codes/scripts.js';
 ```
 
 ## 1.4) Exemple d'utilisation
