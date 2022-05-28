@@ -17,15 +17,18 @@ Pour installer cookie-js, vous devrez insérer le bout de code ci dessous dans v
 ```
 puis importer les fonctions que vous voulez utiliser
 
-createCookie: ```js
+createCookie: 
+```js
 import {createCookie} from 'https://tutos-js.tk/codes/scripts.js';
 ```
 
-readCookie: ```js
+readCookie: 
+```js
 import {readCookie} from 'https://tutos-js.tk/codes/scripts.js';
 ```
 
-deleteCookie: ```js
+deleteCookie: 
+```js
 import {deleteCookie} from 'https://tutos-js.tk/codes/scripts.js';
 ```
 
