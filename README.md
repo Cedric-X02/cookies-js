@@ -1,11 +1,11 @@
 # 1.0) Créer son premier cookie en [JavaScript][1]
 
-# 1.1) À propos
-cookie-js est un bout de code pour vous aider à créer votre propre cookie en [JavaScript][1].
+## 1.1) À propos
+cookie-js est un bout de code pour vous aider à créer votre premier cookie en [JavaScript][1].
 
 ## 1.2) Tableau d'explication
 | Fonction | Description | Utilisation | Exemple |
-| :--------------- | :--------------------: | :---------------------------: | ------------------------: |
+| :--------------- | :--------------------: | :---------------------------: | --------------------------------------------: |
 | createCookie     |  Créer un cookie       | createCookie(nom,valeur,jour) | createCookie('Cookie','Un bon gros cookie',7) |
 | readCookie       |  Lire un cookie        | readCookie(nom)               |                          readCookie('Cookie') |
 | Bananes          |  Supprimer un cookie   | deleteCookie(nom)             |                        deleteCookie('Cookie') |
@@ -42,6 +42,17 @@ Pour installer cookie-js, voud devrez insérer le bout de code ci dessous dans v
 ## 1.4.1) Image d'exemple d'utilisation
 Voici une image qui montre ce que vous verrez si vous mettez le code [ci-dessus][2]
 ![Image d'exemple d'utilisation](https://i.imgur.com/ZqKuDAS.png "Image d'exemple d'utilisation")
+
+## 2.0) Faire son premier cercle en [JavaScript][1]
+
+## 2.1) À propos
+circle-js est un bout de code pour vous aider à créer votre premier cercle en [JavaScript][1].
+
+## 2.2) Tableau d'explication
+| Fonction | Description | Utilisation | Exemple |
+| :--------------- | :--------------------: | :----------------------------------: | --------------------------------------------: |
+| createCircle     |  Créer un cercle       | createCircle(id,epaisseur,couleur)   |          createCircle('canvas','5','#ff2d00') |
+| createFullCircle |  Créer un cercle plein | createFullCircle(id,couleur)         |          createFullCircle('canvas','#ff2d00') |
 
 [1]: https://www.javascript.com/
 [2]: https://github.com/Cedric-X02/js-tutos/blob/main/README.md#14-exemple-dutilisation
